@@ -1,2 +1,0 @@
-echo "esto es el repositorio de trabajo-dupla"
-
