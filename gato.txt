@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 soy un gato miau miau
 
+=======
+soy un gato miau, pero tartamudo asi que en verdad hago "mi-mi aa-uu"
+>>>>>>> df5243511b63b64ef5243b1fa63647dca970159b
