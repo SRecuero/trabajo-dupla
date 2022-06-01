@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este perro hace pio-pio
+=======
+soy un perro guau
+>>>>>>> 01499b7e147e2ebe6c4a212a7754c1c22289224f
